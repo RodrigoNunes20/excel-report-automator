@@ -1,0 +1,43 @@
+Date,Customer,Category,Product,Qty,Amount
+2026-01-24,Eco Market,Home,Coffee Maker,1,199.00
+2026-01-24,Blue Ocean Ltd,Electronics,Wireless Mouse,2,79.80
+2026-01-03,Green Leaf,Home,Blender,5,745.00
+2026-01-07,Delta Foods,Electronics,USB-C Cable,1,12.90
+2026-01-18,Delta Foods,Home,Blender,1,149.00
+2026-01-18,Green Leaf,Home,Blender,6,894.00
+2026-01-09,Acme Corp,Electronics,Headphones,5,647.50
+2026-01-09,Casa Verde,Electronics,Headphones,3,388.50
+2026-01-03,Green Leaf,Electronics,Webcam HD,1,89.00
+2026-01-20,Eco Market,Electronics,Webcam HD,3,267.00
+2026-01-04,Green Leaf,Electronics,Headphones,5,647.50
+2026-01-20,Fast Wheels,Electronics,Webcam HD,6,534.00
+2026-01-03,Acme Corp,Home,Coffee Maker,6,1194.00
+2026-01-03,Delta Foods,Home,Coffee Maker,3,597.00
+2026-01-15,Fast Wheels,Electronics,Headphones,3,388.50
+2026-01-07,Eco Market,Electronics,Webcam HD,3,267.00
+2026-01-03,Casa Verde,Home,Blender,6,894.00
+2026-01-06,Helios Tech,Home,Blender,2,298.00
+2026-01-23,Delta Foods,Office,Desk Lamp,6,270.00
+2026-01-08,Acme Corp,Home,Air Fryer,1,289.90
+2026-01-03,Delta Foods,Office,Desk Lamp,3,135.00
+2026-01-07,Helios Tech,Home,Blender,3,447.00
+2026-01-05,Eco Market,Office,Ergonomic Chair,4,1396.00
+2026-01-18,Eco Market,Electronics,Wireless Mouse,6,239.40
+2026-01-29,Green Leaf,Home,Blender,4,596.00
+2026-01-17,Helios Tech,Office,Notebook A5,2,13.00
+2026-01-05,Casa Verde,Electronics,USB-C Cable,1,12.90
+2026-01-03,Green Leaf,Home,Air Fryer,5,1449.50
+2026-01-17,Eco Market,Office,Ergonomic Chair,4,1396.00
+2026-01-24,Blue Ocean Ltd,Home,Coffee Maker,6,1194.00
+2026-01-25,Fast Wheels,Home,Blender,3,447.00
+2026-01-06,Helios Tech,Electronics,Webcam HD,4,356.00
+2026-01-25,Casa Verde,Electronics,Webcam HD,5,445.00
+2026-01-10,Delta Foods,Home,Coffee Maker,6,1194.00
+2026-01-18,Acme Corp,Electronics,Webcam HD,2,178.00
+2026-01-01,Blue Ocean Ltd,Home,Air Fryer,4,1159.60
+2026-01-02,Delta Foods,Office,Desk Lamp,2,90.00
+2026-01-24,Helios Tech,Home,Coffee Maker,1,199.00
+2026-01-22,Helios Tech,Electronics,Wireless Mouse,2,79.80
+2026-01-17,Green Leaf,Home,Coffee Maker,3,597.00
+2026-01-07,Delta Foods,Electronics,USB-C Cable,1,12.90
+,,,,,
